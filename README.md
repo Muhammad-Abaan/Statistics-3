@@ -1,2 +1,2 @@
 # Statistics-3
-Implementations of hypothesis testing techniques. (Assignment work)
+# This repository contains .ipynb files for Statistics-3. These files are intended solely for admin review.
